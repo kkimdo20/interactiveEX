@@ -7,6 +7,7 @@
 ![두잇 인터렉티브 웹](/images/doit.PNG)
 
 ## git command
-$ git add --all
-$ git commit -m "커밋할 메시지"
-$ git push -u origin main
+
+- $ git add --all
+- $ git commit -m "커밋할 메시지"
+- $ git push -u origin main
