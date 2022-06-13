@@ -11,3 +11,7 @@
 - $ git add --all
 - $ git commit -m "커밋할 메시지"
 - $ git push -u origin main
+
+## 온라인 프로필 카드
+
+- https://www.notion.so/woogieworld/d65e7b345cf44a6fb389ab4c88c65d0f
