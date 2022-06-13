@@ -14,4 +14,4 @@
 
 ## 온라인 프로필 카드
 
-- https://www.notion.so/woogieworld/d65e7b345cf44a6fb389ab4c88c65d0f
+- https://woogieworld.notion.site/d65e7b345cf44a6fb389ab4c88c65d0f
